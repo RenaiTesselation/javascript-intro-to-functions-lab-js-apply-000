@@ -21,9 +21,10 @@ function logWhisper(string)
 
 function sayHiToGrandma(string)
 {
+  var indeed = "YES INDEED!";
 if(string.toUpperCase === string)
 {
-  console.log("YES INDEED!");
+  return indeed;
 }
  
 }
